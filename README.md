@@ -19,6 +19,7 @@ Ensure you have the following installed:
 
 ## 🎯 Testing the Chatbot
 Once the application is running, you can test it via a local API or a simple UI interface. Try asking questions from the predefined FAQ dataset and see how Deepseek performs.
+- example >>> http://localhost:8080/deepseek/faq?message=How can I work at Pied Piper?
 
 ## 📊 Results & Insights
 - ✅ Successfully answered FAQ-style questions using structured data.
