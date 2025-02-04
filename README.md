@@ -36,7 +36,7 @@ This project is licensed under the MIT License.
 
 ---
 
-📝 **Read the full article here:** [LinkedIn Post Link]
+📝 **Read the full article here:** [[LinkedIn Post Link](https://www.linkedin.com/pulse/deepseek-good-option-startups-ricardo-santos-v02zf/?trackingId=kdNcLqm5QtC1QH1paw1piA%3D%3D)]
 
 💬 **Join the discussion!** Feel free to open issues or contribute to improve this experiment.
 
